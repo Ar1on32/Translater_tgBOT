@@ -11,7 +11,7 @@
 
 
 Библиотеки:
-pip install aiogram
+1.pip install aiogram
 
 
 
@@ -20,7 +20,7 @@ pip install aiogram
 
 
 
-pip install deep_translator
+2.pip install deep_translator
 
 
 
@@ -29,4 +29,4 @@ pip install deep_translator
 
 
 
-pip install telegrambotapi
+3.pip install telegrambotapi
