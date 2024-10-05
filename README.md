@@ -12,4 +12,12 @@
 
 Библиотеки:
 pip install aiogram
+
+
+
+
+
+
+
+
 pip install deep_translator
