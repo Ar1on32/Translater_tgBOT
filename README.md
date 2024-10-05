@@ -29,4 +29,4 @@ pip install deep_translator
 
 
 
-pip install tgtelegrambotapi
+pip install telegrambotapi
