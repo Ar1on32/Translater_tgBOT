@@ -10,7 +10,7 @@
 
 
 
-# Библиотеки которые нужно устанвоить:
+# Библиотеки которые нужно установить:
 ### 1.pip install aiogram
 ### 2.pip install deep_translator
 ### 3.pip install telegrambotapi
