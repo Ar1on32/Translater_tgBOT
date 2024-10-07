@@ -10,23 +10,7 @@
 
 
 
-Библиотеки:
-1.pip install aiogram
-
-
-
-
-
-
-
-
-2.pip install deep_translator
-
-
-
-
-
-
-
-
-3.pip install telegrambotapi
+# Библиотеки которые нужно устанвоить:
+### 1.pip install aiogram
+### 2.pip install deep_translator
+### 3.pip install telegrambotapi
